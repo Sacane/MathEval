@@ -9,10 +9,9 @@ For example to calculate "1024 + 765 / 9" :
 
 ```java
   var eval = Evaluator.eval("1024+765 / 9"); //Spaces are already managed
-  System.out.println(eval);
 ```
 
-You can evaluate expressions using those operator : 
+You can evaluate binary-operators expression using those operators : 
 
 * ```+``` Addition
 * ```-``` Substraction
@@ -20,7 +19,6 @@ You can evaluate expressions using those operator :
 * ```/``` Division
 * ```%``` Mod
 * ```^``` Exponent
-
 
 
 
