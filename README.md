@@ -1,2 +1,2 @@
 # MathEval
-Management of maths expressions in String (Using java) 
+Program to evaluate maths expressions in String (Using java) 
